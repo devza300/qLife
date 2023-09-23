@@ -1,0 +1,4 @@
+<map id="GameView::riseCell" name="GameView::riseCell">
+<area shape="rect" id="node1" title="riseCell &#45; оживить клетку" alt="" coords="224,5,375,32"/>
+<area shape="rect" id="node2" href="$class_game_view.html#a875a62d5a9edd14a501a86e342ea20fe" title="eventFilter &#45; обработка событий курсора" alt="" coords="5,5,176,32"/>
+</map>

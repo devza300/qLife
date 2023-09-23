@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resources/back.svg</file>
+        <file>resources/start.svg</file>
+        <file>resources/stop.svg</file>
+        <file>resources/logo.svg</file>
+    </qresource>
+</RCC>
